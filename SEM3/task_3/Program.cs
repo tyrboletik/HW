@@ -6,8 +6,8 @@ double sum = 0;
 
 while (i < array.Length)
 {
- sum = sum + array[i];
- i++;
+    sum = sum + array[i];
+    i++;
 }
 
 double average = sum / array.Length;
