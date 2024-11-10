@@ -11,3 +11,4 @@ if (num1 <= 0)
 else
 {
     Console.WriteLine("положительное");
+}    
