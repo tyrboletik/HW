@@ -1,0 +1,15 @@
+D:\C#\Tren\bin\Debug\net8.0\Tren.exe
+D:\C#\Tren\bin\Debug\net8.0\Tren.deps.json
+D:\C#\Tren\bin\Debug\net8.0\Tren.runtimeconfig.json
+D:\C#\Tren\bin\Debug\net8.0\Tren.dll
+D:\C#\Tren\bin\Debug\net8.0\Tren.pdb
+D:\C#\Tren\obj\Debug\net8.0\Tren.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tren\obj\Debug\net8.0\Tren.AssemblyInfoInputs.cache
+D:\C#\Tren\obj\Debug\net8.0\Tren.AssemblyInfo.cs
+D:\C#\Tren\obj\Debug\net8.0\Tren.csproj.CoreCompileInputs.cache
+D:\C#\Tren\obj\Debug\net8.0\Tren.sourcelink.json
+D:\C#\Tren\obj\Debug\net8.0\Tren.dll
+D:\C#\Tren\obj\Debug\net8.0\refint\Tren.dll
+D:\C#\Tren\obj\Debug\net8.0\Tren.pdb
+D:\C#\Tren\obj\Debug\net8.0\Tren.genruntimeconfig.cache
+D:\C#\Tren\obj\Debug\net8.0\ref\Tren.dll
