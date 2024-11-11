@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tren")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d5eb5ae2e2580de150718077910821319fbb3cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7319c5228e22927fedb6543981fb03e199dbd05")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tren")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tren")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
